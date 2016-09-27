@@ -1,0 +1,184 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Custom Styles */
+
+body {
+    background: #f1f1f1;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header {
+    background: #0f5578;
+    background: -moz-linear-gradient(left,  #0f5578 0%, #17394d 100%);
+    background: -webkit-linear-gradient(left,  #0f5578 0%, #17394d 100%);
+    background: -o-linear-gradient(left,  #0f5578 0%, #17394d 100%);
+    background: -ms-linear-gradient(left,  #0f5578 0%, #17394d 100%);
+    background: linear-gradient(left,  #0f5578 0%, #17394d 100%);
+    height: 84px;
+    line-height: 84px;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.1);
+}
+
+p {
+    margin: 10 auto;
+}
+
+.graph {
+    margin: 50px auto;
+    width: 1300px;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    font-size: 10px;
+/*    text-transform: uppercase;*/
+    letter-spacing: 0.1em;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.1);
+}
+
+.graph #calls-info {
+    text-align: right;
+}
+
+.graph #calls-info #keys .key {
+    padding: 10px;
+    display: inline-block;
+}
+
+#calls-info {
+    color: #555;
+}
+
+#calls-info #keys .key-text {
+    vertical-align: super;
+}
+
+.graph .bars line {
+    stroke: #d0624e;
+    stroke-width: 2px;
+    opacity: 0.7;
+}
+
+.graph .tick line {
+    stroke: #ccc;
+    stroke-width: 1px;
+}
+
+.graph .axis path {
+    stroke-width: 1px;
+    stroke: #ccc;
+    fill: none;
+}
+
+.graph path#duration-line {
+    fill: none;
+    stroke: #17394d;
+    stroke-width: 1px;
+    opacity: 0.7;
+}
+
+.graph line#cursor {
+    stroke-width: 1.5px;
+    stroke: #555;
+    fill: none;
+    opacity: 1;
+}
+
+.graph text {
+    fill: #aaa;
+}
+
+.graph text.label {
+    font-weight: bold;
+    color: #555;
+}
+
+.graph h2 b {
+    font-weight: bold;
+}
+.gauge{
+    text-transform: none;
+}
+.graph text {
+    fill: #000;
+}
+.graph h1{
+    font-size:32px;
+    color: #6faee0;
+}
+.search_overlay {
+    background:url('../../img/overlay-bk.png') repeat;
+    width:100%;
+    height:1476px;
+    position: fixed;
+    top:0px;
+    left:0px;
+    display:none;
+    text-align:center;
+    z-index:999999;
+}
+.search_overlay i {
+    font-size:80px;
+    font-weight:bold;
+    color:#666;
+    position: fixed;
+    top:44%;
+    left:50%;
+}
+.activity_div p{
+    font-size:18px;
+}
+.chart6_gagues{
+    width: 140px;
+    height: 140px;
+    float:left;
+}

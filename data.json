@@ -1,0 +1,657 @@
+[
+  {
+    "Calls": "7",
+    "Duration": "69",
+    "Date": "2015-06-01"
+  },
+  {
+    "Calls": "33",
+    "Duration": "72",
+    "Date": "2015-06-02"
+  },
+  {
+    "Calls": "15",
+    "Duration": "72",
+    "Date": "2015-06-03"
+  },
+  {
+    "Calls": "4",
+    "Duration": "100",
+    "Date": "2015-06-05"
+  },
+  {
+    "Calls": "27",
+    "Duration": "132",
+    "Date": "2015-06-08"
+  },
+  {
+    "Calls": "30",
+    "Duration": "117",
+    "Date": "2015-06-09"
+  },
+  {
+    "Calls": "30",
+    "Duration": "150",
+    "Date": "2015-06-10"
+  },
+  {
+    "Calls": "10",
+    "Duration": "46",
+    "Date": "2015-06-11"
+  },
+  {
+    "Calls": "5",
+    "Duration": "42",
+    "Date": "2015-06-12"
+  },
+  {
+    "Calls": "19",
+    "Duration": "119",
+    "Date": "2015-06-15"
+  },
+  {
+    "Calls": "32",
+    "Duration": "95",
+    "Date": "2015-06-16"
+  },
+  {
+    "Calls": "48",
+    "Duration": "122",
+    "Date": "2015-06-17"
+  },
+  {
+    "Calls": "9",
+    "Duration": "83",
+    "Date": "2015-06-18"
+  },
+  {
+    "Calls": "9",
+    "Duration": "50",
+    "Date": "2015-06-19"
+  },
+  {
+    "Calls": "9",
+    "Duration": "39",
+    "Date": "2015-06-22"
+  },
+  {
+    "Calls": "93",
+    "Duration": "160",
+    "Date": "2015-06-23"
+  },
+  {
+    "Calls": "72",
+    "Duration": "200",
+    "Date": "2015-06-24"
+  },
+  {
+    "Calls": "26",
+    "Duration": "77",
+    "Date": "2015-06-25"
+  },
+  {
+    "Calls": "15",
+    "Duration": "236",
+    "Date": "2015-06-26"
+  },
+  {
+    "Calls": "27",
+    "Duration": "204",
+    "Date": "2015-06-29"
+  },
+  {
+    "Calls": "19",
+    "Duration": "94",
+    "Date": "2015-06-30"
+  },
+  {
+    "Calls": "24",
+    "Duration": "75",
+    "Date": "2015-07-01"
+  },
+  {
+    "Calls": "77",
+    "Duration": "287",
+    "Date": "2015-07-02"
+  },
+  {
+    "Calls": "11",
+    "Duration": "54",
+    "Date": "2015-07-03"
+  },
+  {
+    "Calls": "15",
+    "Duration": "45",
+    "Date": "2015-07-06"
+  },
+  {
+    "Calls": "49",
+    "Duration": "119",
+    "Date": "2015-07-07"
+  },
+  {
+    "Calls": "9",
+    "Duration": "64",
+    "Date": "2015-07-08"
+  },
+  {
+    "Calls": "29",
+    "Duration": "176",
+    "Date": "2015-07-09"
+  },
+  {
+    "Calls": "34",
+    "Duration": "82",
+    "Date": "2015-07-10"
+  },
+  {
+    "Calls": "23",
+    "Duration": "84",
+    "Date": "2015-07-13"
+  },
+  {
+    "Calls": "29",
+    "Duration": "37",
+    "Date": "2015-07-14"
+  },
+  {
+    "Calls": "52",
+    "Duration": "233",
+    "Date": "2015-07-15"
+  },
+  {
+    "Calls": "33",
+    "Duration": "123",
+    "Date": "2015-07-16"
+  },
+  {
+    "Calls": "9",
+    "Duration": "70",
+    "Date": "2015-07-17"
+  },
+  {
+    "Calls": "115",
+    "Duration": "292",
+    "Date": "2015-07-20"
+  },
+  {
+    "Calls": "35",
+    "Duration": "71",
+    "Date": "2015-07-21"
+  },
+  {
+    "Calls": "12",
+    "Duration": "60",
+    "Date": "2015-07-22"
+  },
+  {
+    "Calls": "151",
+    "Duration": "164",
+    "Date": "2015-07-23"
+  },
+  {
+    "Calls": "134",
+    "Duration": "160",
+    "Date": "2015-07-24"
+  },
+  {
+    "Calls": "100",
+    "Duration": "323",
+    "Date": "2015-07-27"
+  },
+  {
+    "Calls": "57",
+    "Duration": "278",
+    "Date": "2015-07-28"
+  },
+  {
+    "Calls": "46",
+    "Duration": "101",
+    "Date": "2015-07-29"
+  },
+  {
+    "Calls": "28",
+    "Duration": "65",
+    "Date": "2015-07-30"
+  },
+  {
+    "Calls": "13",
+    "Duration": "34",
+    "Date": "2015-07-31"
+  },
+  {
+    "Calls": "9",
+    "Duration": "98",
+    "Date": "2015-08-01"
+  },
+  {
+    "Calls": "97",
+    "Duration": "216",
+    "Date": "2015-08-03"
+  },
+  {
+    "Calls": "77",
+    "Duration": "193",
+    "Date": "2015-08-04"
+  },
+  {
+    "Calls": "19",
+    "Duration": "46",
+    "Date": "2015-08-05"
+  },
+  {
+    "Calls": "59",
+    "Duration": "84",
+    "Date": "2015-08-06"
+  },
+  {
+    "Calls": "8",
+    "Duration": "26",
+    "Date": "2015-08-07"
+  },
+  {
+    "Calls": "17",
+    "Duration": "65",
+    "Date": "2015-08-10"
+  },
+  {
+    "Calls": "33",
+    "Duration": "88",
+    "Date": "2015-08-11"
+  },
+  {
+    "Calls": "41",
+    "Duration": "152",
+    "Date": "2015-08-12"
+  },
+  {
+    "Calls": "17",
+    "Duration": "45",
+    "Date": "2015-08-13"
+  },
+  {
+    "Calls": "6",
+    "Duration": "19",
+    "Date": "2015-08-14"
+  },
+  {
+    "Calls": "48",
+    "Duration": "80",
+    "Date": "2015-08-17"
+  },
+  {
+    "Calls": "40",
+    "Duration": "67",
+    "Date": "2015-08-18"
+  },
+  {
+    "Calls": "29",
+    "Duration": "82",
+    "Date": "2015-08-19"
+  },
+  {
+    "Calls": "22",
+    "Duration": "95",
+    "Date": "2015-08-20"
+  },
+  {
+    "Calls": "11",
+    "Duration": "60",
+    "Date": "2015-08-21"
+  },
+  {
+    "Calls": "155",
+    "Duration": "228",
+    "Date": "2015-08-24"
+  },
+  {
+    "Calls": "226",
+    "Duration": "238",
+    "Date": "2015-08-25"
+  },
+  {
+    "Calls": "194",
+    "Duration": "316",
+    "Date": "2015-08-26"
+  },
+  {
+    "Calls": "8",
+    "Duration": "43",
+    "Date": "2015-08-27"
+  },
+  {
+    "Calls": "9",
+    "Duration": "9",
+    "Date": "2015-08-28"
+  },
+  {
+    "Calls": "10",
+    "Duration": "29",
+    "Date": "2015-08-31"
+  },
+  {
+    "Calls": "9",
+    "Duration": "40",
+    "Date": "2015-09-01"
+  },
+  {
+    "Calls": "132",
+    "Duration": "249",
+    "Date": "2015-09-02"
+  },
+  {
+    "Calls": "24",
+    "Duration": "81",
+    "Date": "2015-09-03"
+  },
+  {
+    "Calls": "3",
+    "Duration": "16",
+    "Date": "2015-09-04"
+  },
+  {
+    "Calls": "16",
+    "Duration": "74",
+    "Date": "2015-09-07"
+  },
+  {
+    "Calls": "112",
+    "Duration": "208",
+    "Date": "2015-09-08"
+  },
+  {
+    "Calls": "57",
+    "Duration": "84",
+    "Date": "2015-09-09"
+  },
+  {
+    "Calls": "31",
+    "Duration": "126",
+    "Date": "2015-09-10"
+  },
+  {
+    "Calls": "9",
+    "Duration": "27",
+    "Date": "2015-09-11"
+  },
+  {
+    "Calls": "20",
+    "Duration": "41",
+    "Date": "2015-09-14"
+  },
+  {
+    "Calls": "38",
+    "Duration": "120",
+    "Date": "2015-09-15"
+  },
+  {
+    "Calls": "27",
+    "Duration": "86",
+    "Date": "2015-09-16"
+  },
+  {
+    "Calls": "64",
+    "Duration": "60",
+    "Date": "2015-09-17"
+  },
+  {
+    "Calls": "46",
+    "Duration": "19",
+    "Date": "2015-09-18"
+  },
+  {
+    "Calls": "28",
+    "Duration": "69",
+    "Date": "2015-09-21"
+  },
+  {
+    "Calls": "38",
+    "Duration": "201",
+    "Date": "2015-09-22"
+  },
+  {
+    "Calls": "24",
+    "Duration": "83",
+    "Date": "2015-09-23"
+  },
+  {
+    "Calls": "20",
+    "Duration": "86",
+    "Date": "2015-09-24"
+  },
+  {
+    "Calls": "25",
+    "Duration": "42",
+    "Date": "2015-09-25"
+  },
+  {
+    "Calls": "14",
+    "Duration": "68",
+    "Date": "2015-09-28"
+  },
+  {
+    "Calls": "12",
+    "Duration": "137",
+    "Date": "2015-09-29"
+  },
+  {
+    "Calls": "9",
+    "Duration": "76",
+    "Date": "2015-09-30"
+  },
+  {
+    "Calls": "6",
+    "Duration": "4",
+    "Date": "2015-10-01"
+  },
+  {
+    "Calls": "13",
+    "Duration": "37",
+    "Date": "2015-10-02"
+  },
+  {
+    "Calls": "22",
+    "Duration": "82",
+    "Date": "2015-10-05"
+  },
+  {
+    "Calls": "16",
+    "Duration": "33",
+    "Date": "2015-10-06"
+  },
+  {
+    "Calls": "22",
+    "Duration": "69",
+    "Date": "2015-10-07"
+  },
+  {
+    "Calls": "25",
+    "Duration": "81",
+    "Date": "2015-10-08"
+  },
+  {
+    "Calls": "23",
+    "Duration": "61",
+    "Date": "2015-10-09"
+  },
+  {
+    "Calls": "21",
+    "Duration": "66",
+    "Date": "2015-10-12"
+  },
+  {
+    "Calls": "18",
+    "Duration": "75",
+    "Date": "2015-10-13"
+  },
+  {
+    "Calls": "12",
+    "Duration": "73",
+    "Date": "2015-10-14"
+  },
+  {
+    "Calls": "22",
+    "Duration": "43",
+    "Date": "2015-10-15"
+  },
+  {
+    "Calls": "9",
+    "Duration": "29",
+    "Date": "2015-10-16"
+  },
+  {
+    "Calls": "10",
+    "Duration": "33",
+    "Date": "2015-10-19"
+  },
+  {
+    "Calls": "44",
+    "Duration": "119",
+    "Date": "2015-10-20"
+  },
+  {
+    "Calls": "14",
+    "Duration": "63",
+    "Date": "2015-10-21"
+  },
+  {
+    "Calls": "13",
+    "Duration": "67",
+    "Date": "2015-10-22"
+  },
+  {
+    "Calls": "6",
+    "Duration": "6",
+    "Date": "2015-10-23"
+  },
+  {
+    "Calls": "21",
+    "Duration": "69",
+    "Date": "2015-10-26"
+  },
+  {
+    "Calls": "19",
+    "Duration": "50",
+    "Date": "2015-10-27"
+  },
+  {
+    "Calls": "27",
+    "Duration": "62",
+    "Date": "2015-10-28"
+  },
+  {
+    "Calls": "22",
+    "Duration": "87",
+    "Date": "2015-10-29"
+  },
+  {
+    "Calls": "33",
+    "Duration": "127",
+    "Date": "2015-10-30"
+  },
+  {
+    "Calls": "32",
+    "Duration": "64",
+    "Date": "2015-11-02"
+  },
+  {
+    "Calls": "34",
+    "Duration": "155",
+    "Date": "2015-11-03"
+  },
+  {
+    "Calls": "15",
+    "Duration": "97",
+    "Date": "2015-11-04"
+  },
+  {
+    "Calls": "20",
+    "Duration": "129",
+    "Date": "2015-11-05"
+  },
+  {
+    "Calls": "2",
+    "Duration": "20",
+    "Date": "2015-11-06"
+  },
+  {
+    "Calls": "17",
+    "Duration": "71",
+    "Date": "2015-11-09"
+  },
+  {
+    "Calls": "14",
+    "Duration": "31",
+    "Date": "2015-11-10"
+  },
+  {
+    "Calls": "1",
+    "Duration": "1",
+    "Date": "2015-11-11"
+  },
+  {
+    "Calls": "16",
+    "Duration": "111",
+    "Date": "2015-11-12"
+  },
+  {
+    "Calls": "7",
+    "Duration": "16",
+    "Date": "2015-11-13"
+  },
+  {
+    "Calls": "17",
+    "Duration": "42",
+    "Date": "2015-11-16"
+  },
+  {
+    "Calls": "16",
+    "Duration": "29",
+    "Date": "2015-11-17"
+  },
+  {
+    "Calls": "8",
+    "Duration": "32",
+    "Date": "2015-11-18"
+  },
+  {
+    "Calls": "14",
+    "Duration": "83",
+    "Date": "2015-11-19"
+  },
+  {
+    "Calls": "6",
+    "Duration": "8",
+    "Date": "2015-11-20"
+  },
+  {
+    "Calls": "14",
+    "Duration": "63",
+    "Date": "2015-11-23"
+  },
+  {
+    "Calls": "15",
+    "Duration": "80",
+    "Date": "2015-11-24"
+  },
+  {
+    "Calls": "14",
+    "Duration": "66",
+    "Date": "2015-11-25"
+  },
+  {
+    "Calls": "20",
+    "Duration": "12",
+    "Date": "2015-11-26"
+  },
+  {
+    "Calls": "4",
+    "Duration": "13",
+    "Date": "2015-11-27"
+  },
+  {
+    "Calls": "13",
+    "Duration": "21",
+    "Date": "2015-11-30"
+  }
+]
